@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=oomox-v1nc:arch-grey-Darker
+Name=v1nc:Arch-Grey
 Comment=A grey/green arch theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Darker
-MetacityTheme=Arc-Darker
+GtkTheme=Arch-Grey
+MetacityTheme=Arch-Grey
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
