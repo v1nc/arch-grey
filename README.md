@@ -23,6 +23,9 @@
 
 <details><summary>terminal colors for e.g. urxvt</summary>
 <p>
+  <code>
+  cp urxvt.conf ~/.Xdefaults
+  </code>
   
 ![screenshot](https://raw.githubusercontent.com/v1nc/arch-grey/master/screenshots/urxvt.png)
 </p>
@@ -44,6 +47,7 @@
 
 <details><summary>GTK2 / GTK3 / metacity / openbox / plank / unity</summary>
 <p>
+  <code>cp -r arch-grey /usr/share/themes</code>
   
 ![screenshot](https://raw.githubusercontent.com/v1nc/arch-grey/master/screenshots/gtk.png)
 </p>
@@ -58,6 +62,7 @@
 
 <details><summary>Spotify</summary>
 <p>
+  <code>apply like gtk and use oomox</code>
   
 ![screenshot](https://raw.githubusercontent.com/v1nc/arch-grey/master/screenshots/spotify.png)
 </p>
