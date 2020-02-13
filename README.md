@@ -56,3 +56,10 @@
 </p>
 </details>
 
+<details><summary>Spotify</summary>
+<p>
+  
+![screenshot](https://raw.githubusercontent.com/v1nc/arch-grey/master/screenshots/spotify.png)
+</p>
+</details>
+
